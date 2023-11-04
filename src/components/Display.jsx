@@ -2,9 +2,11 @@ import React from "react";
 
 const Display = () => {
   return (
-    <div className="main">
-      <div className="dis-field">
-        <input type="text" className="display" placeholder="number" />
+    <div className="container">
+      <div className="main">
+        <div className="screen">
+          <input type="text" className="display" placeholder="number" />
+        </div>
       </div>
     </div>
   );

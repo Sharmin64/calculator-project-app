@@ -5,10 +5,21 @@
   text-align: center;
 }
 
+
+.container {
+  background: #4c516d;
+  color: aliceblue;
+  width: 100vw;
+  height: 100vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
 .main {
   width: 30em;
   height: auto;
-  background: #536878;
+  background: #61819e
 }
 
 .dis-field {
